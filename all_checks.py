@@ -13,6 +13,9 @@ def new_fun1():
 def new_fun2():
     """This is new function2"""
 
+def new_fun3():
+    """This is new function3"""
+
 def main():
     if check_reboot():
         print("Pending Reboot.")
